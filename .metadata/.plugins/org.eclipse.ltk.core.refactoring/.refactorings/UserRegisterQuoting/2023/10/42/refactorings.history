@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;java&apos; to &apos;user-register-quoting&apos;&#x0D;&#x0A;- Original project: &apos;UserRegisterQuoting&apos;&#x0D;&#x0A;- Destination element: &apos;user-register-quoting&apos;&#x0D;&#x0A;- Original element: &apos;UserRegisterQuoting/src/main/java&apos;" description="Copy source folder" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1697683073133" target="/quoting_mc/user-register-quoting" version="1.0"/>
+</session>

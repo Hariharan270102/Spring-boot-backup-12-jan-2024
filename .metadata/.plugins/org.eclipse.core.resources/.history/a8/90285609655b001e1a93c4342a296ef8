@@ -1,0 +1,14 @@
+package com.springboot.springBootDemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootDemoApplication {
+
+	public static void main(String[] args) {
+		System.out.println("Hello from spring boot!");
+		SpringApplication.run(SpringBootDemoApplication.class, args);
+	}
+
+}

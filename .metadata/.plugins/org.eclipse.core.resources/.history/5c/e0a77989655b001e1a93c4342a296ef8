@@ -1,0 +1,5 @@
+package com.springboot.springBootDemo;
+
+public interface Department {
+
+}

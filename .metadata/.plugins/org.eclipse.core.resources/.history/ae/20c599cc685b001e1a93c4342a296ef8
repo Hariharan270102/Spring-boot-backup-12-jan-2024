@@ -1,0 +1,17 @@
+package com.springboot.springBootDemo;
+
+import org.springframework.context.annotation.Primary;
+import org.springframework.stereotype.Component;
+
+@Component
+@Primary
+public class HrDepartment implements Department {
+
+	@Override
+	public String empDept() {
+		// TODO Auto-generated method stub
+		return "HR Department";
+		
+	}
+
+}

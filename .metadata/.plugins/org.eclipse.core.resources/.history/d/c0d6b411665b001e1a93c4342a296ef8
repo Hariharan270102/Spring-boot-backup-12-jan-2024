@@ -1,0 +1,14 @@
+package com.springboot.springBootDemo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Employee {
+	private int eid;
+	private String ename;
+	private int salary;
+	@Autowired
+	private Department dept;
+
+}

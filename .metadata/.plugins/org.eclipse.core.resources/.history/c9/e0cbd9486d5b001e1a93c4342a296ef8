@@ -1,0 +1,14 @@
+package com.springboot.springBootDemo;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class ItDepartment implements Department {
+
+	@Override
+	public String empDept() {
+		// TODO Auto-generated method stub
+		return "IT Department";
+	}
+
+}

@@ -1,0 +1,5 @@
+package edu.springboot.spring_security_database.controller;
+
+public class FrontController {
+
+}

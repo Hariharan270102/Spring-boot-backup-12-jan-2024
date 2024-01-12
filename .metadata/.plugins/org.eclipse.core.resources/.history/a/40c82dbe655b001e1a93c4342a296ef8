@@ -1,0 +1,11 @@
+package com.springboot.springBootDemo;
+
+public class ItDepartment implements Department {
+
+	@Override
+	public String empDept() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

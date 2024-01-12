@@ -1,0 +1,12 @@
+package com.springboot.springBootDemo;
+
+public class HrDepartment implements Department {
+
+	@Override
+	public String empDept() {
+		// TODO Auto-generated method stub
+		return "HR Department";
+		
+	}
+
+}
